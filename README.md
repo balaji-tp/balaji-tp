@@ -24,7 +24,7 @@
 
 ###
 
-<h6 align="left">Architecting logic into systems that scale beyond expectations.</h6>
+<h5 align="left">Architecting logic into systems that scale beyond expectations.</h5>
 
 ###
 
