@@ -25,7 +25,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Building%20Systems-success?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20VLSI%20%7C%20AI%20Agents-blue?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Java%20%7C%20VLSI%20%7C%20AI%20Agents-blue?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Mode-Always%20Learning-orange?style=for-the-badge" alt="Mode" />
 </p>
 
