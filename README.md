@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/balaji-tp/balaji-tp/main/balaji.gif" alt="Hello Animation" width="50%" />
+</p>
+
 <h1 align="left">Hello There👋</h1>
 
 ###
