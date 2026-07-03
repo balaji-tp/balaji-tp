@@ -32,7 +32,7 @@
 
 ###
 
-<h5 align="left">Architecting logic into systems that scale beyond expectations.</h5>
+<h5 align="left">Building the future, one commit at a time.</h5>
 
 ###
 
