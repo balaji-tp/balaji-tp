@@ -20,10 +20,7 @@
 </p>
 
 ###
-## 💬 T P Quote
-
 >  **"Programming isn't about typing code. It's about thinking differently."**
-
 <p align="left"></p>
 
 ###
