@@ -13,12 +13,12 @@
 <!-- title bar -->
 <line x1="0" y1="30" x2="480" y2="30" stroke="#30363d"/>
 
-<text x="240" y="19" fill="#7d8590" font-size="12" text-anchor="middle">lohithadamisetti123@github: ~$ neofetch</text>
+<text x="240" y="19" fill="#7d8590" font-size="12" text-anchor="middle">balaji-tp@github: ~$ neofetch</text>
 
 <!-- ── ROW 0: identity header ── -->
 <g opacity="0" transform="translate(0,5)">
   <text x="20" y="60" font-size="14" font-weight="700">
-    <tspan fill="#3fb950">lohithadamisetti123</tspan>
+    <tspan fill="#3fb950">balaji-tp</tspan>
     <tspan fill="#7d8590">@</tspan>
     <tspan fill="#22d3ee">github</tspan>
   </text>
