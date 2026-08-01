@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/balaji-tp/balaji-tp/main/1780b5d7-ae22-5fb1-9e33-764a59c83f33.gif" width="75%">
+  <img src="From Klickpin.com- Useful small routine upgrades for daily inspiration for inspiration you can revisit anytime that wor-pin-id-973692381951835193.gif" width="55%">
 </p>
 <p align="center">
   <kbd>🌟 Welcome to My GitHub World! 🌟</kbd>
