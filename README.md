@@ -7,8 +7,16 @@
 
 
 ###
+## 🔖 Who Am I? 
 
-<h5 align="left">I'm Balaji — Java developer, backend engineer, and system builder.<br>I build scalable applications, optimize performance, and deliver real-world solutions.</h5>
+```yaml
+Name: BALAJI 
+Languages: Java,Python,SQL
+Interests: AI, Open Source
+Current Focus: AI Based Automation Projects & Open Source Contributions
+Hobbies: Movies, Reading, and Exploring New Technologies
+Fun Fact: I Like Exploring New Technologies More Than Sleeping Sometimes
+```
 
 ###
 ##  Tech Stack
