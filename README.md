@@ -1,7 +1,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/balaji-tp/balaji-tp/main/1780b5d7-ae22-5fb1-9e33-764a59c83f33.gif" width="75%">
 </p>
-<h1 align="left">Hello There👋</h1>
+<p align="center">
+  <kbd>🌟 Welcome to My GitHub World! 🌟</kbd>
+</p>
+
 
 ###
 
