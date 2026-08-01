@@ -38,11 +38,7 @@ Fun Fact: I Like Exploring New Technologies More Than Sleeping Sometimes
 ###
 > [!TIP]
 > ```json
-> {
->   "quote": "Programming isn't about typing code. It's about thinking differently.",
->   "author": "Balaji",
->   "status": "Always Evolving"
-> }
+> "Quote": "Programming isn't about typing code. It's about thinking differently.",
 
 ###
 <picture>
