@@ -17,24 +17,32 @@ Current Focus: AI Based Automation Projects & Open Source Contributions
 Hobbies: Movies, Reading, and Exploring New Technologies
 Fun Fact: I Like Exploring New Technologies More Than Sleeping Sometimes
 ```
-
-###
-##  Tech Stack
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,mysql,python,nodejs,git,vscode,eclipse,docker,arduino,linux" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Building%20Systems-success?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-Java%20%7C%20VLSI%20%7C%20AI%20Agents-blue?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Mode-Always%20Learning-orange?style=for-the-badge" alt="Mode" />
+  <img src="https://img.shields.io/badge/-Artificial%20Intelligence-purple?style=flat" />
+  <img src="https://img.shields.io/badge/-Open%20Source-00BFFF?style=flat" />
+  <img src="https://img.shields.io/badge/-Always%20Learning-FF6347?style=flat&logo=book" />
+  <img src="https://img.shields.io/badge/JAVA%20Developer-1F6FEB?style=flat&logo=palette" />
 </p>
 
 ###
->  **"Programming isn't about typing code. It's about thinking differently."**
-<p align="left"></p>
+##  Technologies & Tools
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,git,tensorflow,mongodb,js" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,vscode,docker,linux,gitlab,windows,vercel" />
+</p>
+
+
+###
+> [!TIP]
+> ```json
+> {
+>   "quote": "Programming isn't about typing code. It's about thinking differently.",
+>   "author": "Balaji",
+>   "status": "Always Evolving"
+> }
 
 ###
 <picture>
