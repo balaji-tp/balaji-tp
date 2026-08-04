@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="From Klickpin.com- Useful small routine upgrades for daily inspiration for inspiration you can revisit anytime that wor-pin-id-973692381951835193.gif" width="65%">
+  <img src="8bf36d4d168dffce516576c6c7c1e47c.jpg" width="65%">
 </p>
 <p align="center">
   <kbd>🌟 Welcome to My GitHub World! 🌟</kbd>
