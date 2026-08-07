@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="8bf36d4d168dffce516576c6c7c1e47c.jpg" width="65%">
+  <img src="365126a63911723046e0ef2ae1e249ff.gif" width="65%">
 </p>
 <p align="center">
   <kbd>🌟 Welcome to My GitHub World! 🌟</kbd>
