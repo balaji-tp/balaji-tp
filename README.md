@@ -34,6 +34,11 @@ Fun Fact: I Like Exploring New Technologies More Than Sleeping Sometimes
   <img src="https://skillicons.dev/icons?i=github,vscode,docker,linux,windows,vercel,postman" />
 </p>
 
+<details>
+  <summary>GitHub Stats 🎐</summary><br/>
+
+![](https://streak-stats.demolab.com/?user=balaji-tp&theme=dark&hide_border=false)
+
 
 ###
 > [!TIP]
