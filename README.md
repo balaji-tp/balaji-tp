@@ -39,6 +39,8 @@ Fun Fact: I Like Exploring New Technologies More Than Sleeping Sometimes
 
 ![](https://streak-stats.demolab.com/?user=balaji-tp&theme=dark&hide_border=false)
 
+</details>
+
 
 ###
 > [!TIP]
