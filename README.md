@@ -45,7 +45,7 @@ Fun Fact: I Like Exploring New Technologies More Than Sleeping Sometimes
 ###
 > [!TIP]
 > ```json
-> "Quote": "Programming isn't about typing code. It's about thinking differently.",
+> "Quote": "Programming isn't about typing code. It's about thinking differently."
 
 ###
 <picture>
